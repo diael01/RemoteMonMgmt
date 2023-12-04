@@ -1,2 +1,2 @@
 # RemoteMonMgmt
-React + .NET Core 7 skeleton for Remote Monitoring and Management App
+React UI + .NET Core 7 skeleton for Computers Remote Monitoring and Management App

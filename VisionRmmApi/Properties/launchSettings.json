@@ -1,0 +1,15 @@
+﻿{
+  "profiles": {
+    "VisionRMMApi": {
+      "anonymousAuthentication": true,
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "launchBrowser": true,
+      //"launchUrl": "swagger",
+      "applicationUrl": "https://localhost:4001",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
